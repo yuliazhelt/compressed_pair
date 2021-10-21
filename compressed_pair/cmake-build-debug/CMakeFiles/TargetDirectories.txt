@@ -1,0 +1,3 @@
+/mnt/c/дзшки/стажка/прога/compressed_pair/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/дзшки/стажка/прога/compressed_pair/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/дзшки/стажка/прога/compressed_pair/cmake-build-debug/CMakeFiles/compressed_pair.dir
